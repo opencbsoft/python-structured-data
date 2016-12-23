@@ -5,6 +5,7 @@ A project that will interpret romanian sentences and convert them to structured 
 The following texts will be used as examples to be converted into structured data.
 
  1. Greutate (grams)
+
  - are 5 kilograme = 5000 grams
  - 4 kg = 4000 grams
  - 5 kile = 5000 grams
